@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "3b67f5c6-ccd7-4ee9-9b3a-d144e8be3ce9",
+            "Value": {
+                "id": "85c0041e-37f4-43e1-8b60-bfbd91dfa29e",
+                "resourcePath": "fonts\\tjfont\\tjfont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "53d99419-b095-4bd0-baf5-3cc67dc05451",
             "Value": {
                 "id": "b5516020-21a8-40b3-846b-7f7bb076be8b",
