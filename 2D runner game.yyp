@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0d88d107-2e14-4a40-8de0-e0b1bc51a031",
+            "Value": {
+                "id": "e1d4df9d-2139-40c8-b632-ed70b4e164f0",
+                "resourcePath": "fonts\\git_test_font\\git_test_font.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "1bfbf468-add8-4558-aabd-794576fcdd09",
             "Value": {
                 "id": "45bda1f6-4598-41da-b252-f07c4484a49b",
