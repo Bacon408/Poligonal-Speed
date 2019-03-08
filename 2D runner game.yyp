@@ -79,14 +79,6 @@
             }
         },
         {
-            "Key": "2e84cecb-1dd9-42bf-83d2-c5deef3f6097",
-            "Value": {
-                "id": "a6904f13-3f07-4c51-94a4-deba40669e0e",
-                "resourcePath": "fonts\\trash\\trash.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "33b20306-f4e5-49ab-875b-74a6836fa25e",
             "Value": {
                 "id": "d88b74a8-122e-4d00-a821-2ce75ace84a9",
@@ -108,14 +100,6 @@
                 "id": "33d8baec-5ac2-438f-8d32-6f8c6f888803",
                 "resourcePath": "sprites\\spr_player_jumping\\spr_player_jumping.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "3b67f5c6-ccd7-4ee9-9b3a-d144e8be3ce9",
-            "Value": {
-                "id": "85c0041e-37f4-43e1-8b60-bfbd91dfa29e",
-                "resourcePath": "fonts\\tjfont\\tjfont.yy",
-                "resourceType": "GMFont"
             }
         },
         {
