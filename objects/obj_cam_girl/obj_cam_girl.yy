@@ -1,8 +1,8 @@
 {
-    "id": "a0b6dd67-b191-4766-8b27-cd8ff27c552e",
+    "id": "e44520c6-a451-4b99-9baf-412723cf829c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object5",
+    "name": "obj_cam_girl",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "b394e5c5-eaa0-4f84-ad57-d204a57b1279",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

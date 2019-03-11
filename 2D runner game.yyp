@@ -215,14 +215,6 @@
             }
         },
         {
-            "Key": "a0b6dd67-b191-4766-8b27-cd8ff27c552e",
-            "Value": {
-                "id": "818187fc-a0cd-422f-b110-91b8a8be43e0",
-                "resourcePath": "objects\\object5\\object5.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a6e469b8-aa49-4bae-8419-cb83206ebe00",
             "Value": {
                 "id": "590231e1-4975-4970-aa67-5f6e60334c27",
@@ -324,6 +316,14 @@
                 "id": "fd202897-9555-4e5d-8af9-47d2a30f132a",
                 "resourcePath": "views\\d707dd1a-d6dd-4b1f-9410-81ac28150457.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e44520c6-a451-4b99-9baf-412723cf829c",
+            "Value": {
+                "id": "d041ed05-50af-4c10-a60e-4f19393d6f57",
+                "resourcePath": "objects\\obj_cam_girl\\obj_cam_girl.yy",
+                "resourceType": "GMObject"
             }
         },
         {
