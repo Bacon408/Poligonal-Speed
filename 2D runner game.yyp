@@ -191,14 +191,6 @@
             }
         },
         {
-            "Key": "8e44c49c-4924-45eb-a702-e6b21534ad60",
-            "Value": {
-                "id": "aa2d77ec-c21b-4726-9aea-cc04448b1b52",
-                "resourcePath": "tilesets\\tile_collision\\tile_collision.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
             "Key": "92f46afe-8211-430b-b006-34e19dfd0750",
             "Value": {
                 "id": "292b7b5c-e3f3-4d5d-be31-7e57fb1294a0",
@@ -263,14 +255,6 @@
             }
         },
         {
-            "Key": "b7cffdb8-fce2-4b89-8c92-846149e64ad5",
-            "Value": {
-                "id": "0a31111b-a60e-4e1c-bcba-5c56588bd15b",
-                "resourcePath": "sprites\\spr_collision\\spr_collision.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "bc8873e2-2909-498c-8cb3-882b0bb667dc",
             "Value": {
                 "id": "414c4ea9-0242-4e43-a6a3-381a96ba7ef1",
@@ -282,7 +266,7 @@
             "Key": "c5980abb-cf29-4052-8f44-5971b1f1e86b",
             "Value": {
                 "id": "20cdd670-e3bb-4443-a537-c60ad63bfdbe",
-                "resourcePath": "objects\\obj_alarm\\obj_alarm.yy",
+                "resourcePath": "objects\\obj_countdown\\obj_countdown.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -311,11 +295,27 @@
             }
         },
         {
+            "Key": "cf0091d5-265f-4b3e-99a3-44bbdc20d6a4",
+            "Value": {
+                "id": "7995b613-97c3-4ef3-9160-93c435bc8bc1",
+                "resourcePath": "fonts\\countdown_font\\countdown_font.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "d707dd1a-d6dd-4b1f-9410-81ac28150457",
             "Value": {
                 "id": "fd202897-9555-4e5d-8af9-47d2a30f132a",
                 "resourcePath": "views\\d707dd1a-d6dd-4b1f-9410-81ac28150457.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ea931c36-0bfc-483d-8594-032a6a452d40",
+            "Value": {
+                "id": "f31ef879-7668-418c-ab7c-c059a5e433e6",
+                "resourcePath": "objects\\obj_camgirl\\obj_camgirl.yy",
+                "resourceType": "GMObject"
             }
         },
         {

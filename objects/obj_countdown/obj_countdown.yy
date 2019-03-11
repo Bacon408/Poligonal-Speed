@@ -2,10 +2,10 @@
     "id": "c5980abb-cf29-4052-8f44-5971b1f1e86b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_alarm",
+    "name": "obj_countdown",
     "eventList": [
         {
-            "id": "cfe46365-0e94-4707-8eef-c4a90b412bc0",
+            "id": "cfbde52f-67f3-4110-bd4b-7b704b502f73",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

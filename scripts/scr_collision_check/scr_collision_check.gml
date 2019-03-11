@@ -1,4 +1,4 @@
-if (place_meeting(x, y + vspd, obj_ground)
+if (place_meeting(x, y + vspd, obj_ground))
 {
 	while (!place_meeting(x, y + sign(vspd), obj_ground))
 	{
