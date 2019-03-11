@@ -1,5 +1,5 @@
 {
-    "id": "b18d1aff-80ab-4d08-88a7-fd32f12076bf",
+    "id": "441f6164-232f-47c6-bc46-1e74fad4c7b8",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "scr_collision_check",
