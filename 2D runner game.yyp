@@ -319,14 +319,6 @@
             }
         },
         {
-            "Key": "ea931c36-0bfc-483d-8594-032a6a452d40",
-            "Value": {
-                "id": "f31ef879-7668-418c-ab7c-c059a5e433e6",
-                "resourcePath": "objects\\obj_camgirl\\obj_camgirl.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "eeb42522-a877-445b-9bd4-ccb325fd03f1",
             "Value": {
                 "id": "3946a433-f0ff-49f4-afd7-cd4e48c72800",
@@ -343,14 +335,6 @@
             }
         },
         {
-            "Key": "f7cb3fb1-a73c-4c99-bb8b-d19744a079bf",
-            "Value": {
-                "id": "f4311423-6f60-4245-9ab4-29398b706263",
-                "resourcePath": "scripts\\scr_auto_run\\scr_auto_run.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "ff858a93-e6be-4bf6-b96a-31199fbb922b",
             "Value": {
                 "id": "a46196ef-b05c-4aec-b4d2-76f9f164c1ed",
@@ -364,8 +348,7 @@
         "33b20306-f4e5-49ab-875b-74a6836fa25e",
         "552a846d-d1c9-492c-b612-54d984b3c448",
         "441f6164-232f-47c6-bc46-1e74fad4c7b8",
-        "5fff05f8-6e9a-4b12-a48c-157f7b2e8924",
-        "f7cb3fb1-a73c-4c99-bb8b-d19744a079bf"
+        "5fff05f8-6e9a-4b12-a48c-157f7b2e8924"
     ],
     "tutorial": ""
 }
