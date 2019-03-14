@@ -17,7 +17,7 @@ if (place_meeting(x, y + 1, obj_ground))
 	if ((jumpKey || jumpKeyAlt) && !duckKey)
 	{
 		jumping = true;
-		vspd = -jspd;
+		vspd = -hspd;
 	}
 }
 else 

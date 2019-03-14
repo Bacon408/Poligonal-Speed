@@ -3,7 +3,7 @@ if (jumping || falling)
 	
 if (ducking)
 {
-	sprite_index = spr_player_ducking;
+	sprite_index = spr_player_slide;
 }
 
 if (!jumping && !falling && !ducking)

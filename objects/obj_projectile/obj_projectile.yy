@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ecd6e9b0-747a-49bf-a8ca-c75cf278860d",
+    "spriteId": "b394e5c5-eaa0-4f84-ad57-d204a57b1279",
     "visible": true
 }

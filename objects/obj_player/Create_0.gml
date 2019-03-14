@@ -1,7 +1,8 @@
 grav = 7;
-jspd = 50;
+hspd = 40;
 vspd = 0;
 jumping = false;
 falling = false;
 ducking = false;
-termVelocity = 50;
+termVelocity = 40;
+runspeed = 20;
