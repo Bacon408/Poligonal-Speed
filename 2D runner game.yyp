@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "f13d496d-20db-41ca-8a72-c84217b48741",
+            "Value": {
+                "id": "641e08be-05f1-49ea-b644-c93fe5996b31",
+                "resourcePath": "tilesets\\til_Midground_1\\til_Midground_1.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "5bf7f94a-901d-4b11-b589-d6cdac978a1b",
