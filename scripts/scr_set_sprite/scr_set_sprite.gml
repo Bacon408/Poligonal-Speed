@@ -15,3 +15,8 @@ if (jumping)
 {
 	sprite_index = spr_player_jumping;
 }
+
+if (shield)
+{
+	sprite_index = spr_shield;
+}
