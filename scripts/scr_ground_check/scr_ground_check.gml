@@ -3,6 +3,7 @@ if (duckKey)
 	ducking = true;
 	jumping = false;
 	falling = true;
+	shield = true;
 }
 
 if (place_meeting(x, y + 1, obj_ground))
@@ -14,7 +15,7 @@ if (place_meeting(x, y + 1, obj_ground))
 	if (!duckKey)
 	ducking = false;
 	
-	if ((jumpKey || jumpKeyAlt) && !duckKey)
+	if ((jumpKey || jumpKeyAlt || shieldKey) && !duckKey)
 	{
 		jumping = true;
 		vspd = -hspd;

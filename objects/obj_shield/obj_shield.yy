@@ -1,5 +1,5 @@
 {
-    "id": "24c33c87-f777-4e28-a204-1ad5f209c250",
+    "id": "734d3811-caa6-4e07-a3c8-9cd1e83b80ba",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_shield",
