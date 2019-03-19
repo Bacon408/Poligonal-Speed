@@ -4,5 +4,6 @@ vspd = 0;
 jumping = false;
 falling = false;
 ducking = false;
+shield = false;
 termVelocity = 40;
 runspeed = 20;
