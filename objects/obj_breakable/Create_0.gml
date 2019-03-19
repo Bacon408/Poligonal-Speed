@@ -1,3 +1,0 @@
-if obj_shield
-{
-	

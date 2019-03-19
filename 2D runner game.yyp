@@ -34,7 +34,7 @@
             "Key": "04f07935-ff98-4a28-ae51-ac5a49bf919f",
             "Value": {
                 "id": "d25ae32d-cd50-4255-97fe-ceecc995e68c",
-                "resourcePath": "sprites\\spr_block\\spr_block.yy",
+                "resourcePath": "sprites\\spr_shield\\spr_shield.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -162,7 +162,7 @@
             "Key": "5983d41c-1ba4-4cc7-ab82-5d1802cf76d3",
             "Value": {
                 "id": "dbd95dac-5205-4ca6-905a-cc70217d3e5c",
-                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourcePath": "objects\\obj_obstacle\\obj_obstacle.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -252,6 +252,14 @@
                 "id": "4fa14ee8-4263-4614-8e0b-2ab1f697962b",
                 "resourcePath": "sprites\\spr_Midground_1\\spr_Midground_1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8d4b94fc-5f6b-4c40-883a-17f2fcf7e2f8",
+            "Value": {
+                "id": "eea17829-978d-4566-9ec0-8ee004e670f1",
+                "resourcePath": "objects\\obj_autorun\\obj_autorun.yy",
+                "resourceType": "GMObject"
             }
         },
         {
