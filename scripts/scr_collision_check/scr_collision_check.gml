@@ -9,3 +9,4 @@ if (place_meeting(x, y + vspd, obj_ground))
 }
 
 y += vspd;
+

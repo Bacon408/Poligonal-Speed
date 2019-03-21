@@ -15,5 +15,5 @@ if mytime <= 0
 {
 draw_set_font(countdown_font)
 draw_set_color(c_white)
-draw_text(100, 100, "RUUUUUNNNNN!!!!!")
+draw_text(100, 100, "Press Enter to Begin")
 }
