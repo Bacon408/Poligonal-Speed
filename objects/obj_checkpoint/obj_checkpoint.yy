@@ -1,8 +1,8 @@
 {
-    "id": "5983d41c-1ba4-4cc7-ab82-5d1802cf76d3",
+    "id": "aa8e87a8-ccf8-4256-8105-e964cd1cd32f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_wall",
+    "name": "obj_checkpoint",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "c6e5c577-8b56-489a-8f57-f61d416be543",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
