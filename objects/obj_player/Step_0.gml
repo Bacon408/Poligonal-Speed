@@ -3,4 +3,6 @@ scr_ground_check();
 scr_jump_check();
 scr_set_sprite();
 scr_collision_check();
-scr_autorun();
+
+if keyboard_check(vk_enter) hspeed = 20;
+
