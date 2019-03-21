@@ -159,14 +159,6 @@
             }
         },
         {
-            "Key": "5983d41c-1ba4-4cc7-ab82-5d1802cf76d3",
-            "Value": {
-                "id": "dbd95dac-5205-4ca6-905a-cc70217d3e5c",
-                "resourcePath": "objects\\obj_obstacle\\obj_obstacle.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "5d97bf68-da24-4ac9-8588-3f1b37d3a32a",
             "Value": {
                 "id": "bd99bc13-3f2a-404d-9c2d-7657eb477e31",
@@ -255,14 +247,6 @@
             }
         },
         {
-            "Key": "8d4b94fc-5f6b-4c40-883a-17f2fcf7e2f8",
-            "Value": {
-                "id": "eea17829-978d-4566-9ec0-8ee004e670f1",
-                "resourcePath": "objects\\obj_autorun\\obj_autorun.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "92f46afe-8211-430b-b006-34e19dfd0750",
             "Value": {
                 "id": "292b7b5c-e3f3-4d5d-be31-7e57fb1294a0",
@@ -308,6 +292,14 @@
                 "id": "1a4531cc-6308-4254-a801-0a74bb850874",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a99463a8-ceb5-4bba-938f-349f542ed50c",
+            "Value": {
+                "id": "08743ed7-5dc6-4092-ae5d-ebaa26b4ffac",
+                "resourcePath": "scripts\\scr_autorun\\scr_autorun.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -471,6 +463,14 @@
             }
         },
         {
+            "Key": "fee938c2-e898-425f-8f43-5717ce71b163",
+            "Value": {
+                "id": "0bb1887a-9bde-41f6-b9f6-986582908b83",
+                "resourcePath": "sprites\\spr_blob_monster\\spr_blob_monster.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ff858a93-e6be-4bf6-b96a-31199fbb922b",
             "Value": {
                 "id": "a46196ef-b05c-4aec-b4d2-76f9f164c1ed",
@@ -484,7 +484,8 @@
         "33b20306-f4e5-49ab-875b-74a6836fa25e",
         "552a846d-d1c9-492c-b612-54d984b3c448",
         "441f6164-232f-47c6-bc46-1e74fad4c7b8",
-        "5fff05f8-6e9a-4b12-a48c-157f7b2e8924"
+        "5fff05f8-6e9a-4b12-a48c-157f7b2e8924",
+        "a99463a8-ceb5-4bba-938f-349f542ed50c"
     ],
     "tutorial": ""
 }
