@@ -8,15 +8,15 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "b10437eb-19bf-43d9-9734-c45f593aab74",
-        "cec857c3-81eb-41c8-bdaa-92e55e788f73",
-        "a62a5d91-2c02-4b46-81ab-ee32ae4e5949"
+        "ad7cc0e1-b4f5-40e1-800f-3016a1ccdec5",
+        "a5e3302e-543a-4b45-a58e-281479990dd9"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Player_layer",
-            "id": "c366b60e-db2e-45e6-8b68-0a4466eaaaac",
+            "name": "Object_layer",
+            "id": "f59d49a6-b320-4b9f-aae7-61687426b3b2",
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
@@ -27,9 +27,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_7B1BE7DA","id": "b10437eb-19bf-43d9-9734-c45f593aab74","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7B1BE7DA","objId": "75ede42d-658a-4676-a53d-4bbc72e9ac87","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 64,"y": 256},
-{"name": "inst_502ABFF8","id": "cec857c3-81eb-41c8-bdaa-92e55e788f73","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_502ABFF8","objId": "a0b6dd67-b191-4766-8b27-cd8ff27c552e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 256,"y": 192},
-{"name": "inst_26D0EB82","id": "a62a5d91-2c02-4b46-81ab-ee32ae4e5949","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_26D0EB82","objId": "287a07a1-a026-40f8-8276-6e451a5e0004","properties": null,"rotation": 0,"scaleX": 8.5,"scaleY": 1,"mvc": "1.0","x": 112.5,"y": 352}
+{"name": "inst_216B5785","id": "a5e3302e-543a-4b45-a58e-281479990dd9","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_216B5785","objId": "c5980abb-cf29-4052-8f44-5971b1f1e86b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 128,"y": 64}
             ],
             "layers": [
 
@@ -42,19 +40,41 @@
             "visible": true
         },
         {
-            "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Background",
-            "id": "f9ebd5b8-34ea-4308-ac6a-6719e3a8d7ff",
-            "animationFPS": 15,
-            "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Player_layer",
+            "id": "c366b60e-db2e-45e6-8b68-0a4466eaaaac",
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
-            "hspeed": 0,
-            "htiled": false,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_7B1BE7DA","id": "b10437eb-19bf-43d9-9734-c45f593aab74","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7B1BE7DA","objId": "75ede42d-658a-4676-a53d-4bbc72e9ac87","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 64,"y": 384},
+{"name": "inst_26594E3C","id": "ad7cc0e1-b4f5-40e1-800f-3016a1ccdec5","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_26594E3C","objId": "287a07a1-a026-40f8-8276-6e451a5e0004","properties": null,"rotation": 0,"scaleX": 8.5,"scaleY": 0.5,"mvc": "1.0","x": 256,"y": 480}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Tile_1",
+            "id": "0fe7beba-9e93-4c6d-916b-806b2623be6c",
+            "depth": 200,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -64,15 +84,52 @@
             ],
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
-            "modelName": "GMRBackgroundLayer",
+            "modelName": "GMRTileLayer",
+            "prev_tileheight": 16,
+            "prev_tilewidth": 16,
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
-            "stretch": false,
-            "userdefined_animFPS": false,
+            "tiles": {
+                "SerialiseData": null,
+                "SerialiseHeight": 32,
+                "SerialiseWidth": 32,
+                "TileSerialiseData": [
+                    0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,
+                    8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,
+                    16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,
+                    24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,
+                    32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,
+                    40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,
+                    48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,
+                    56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63,
+                    0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,
+                    8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,
+                    16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,
+                    24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,
+                    32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,
+                    40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,
+                    48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,
+                    56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63,
+                    0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,
+                    8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,
+                    16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,
+                    24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,
+                    32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,
+                    40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,
+                    48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,
+                    56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63,
+                    0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,0,1,2,3,4,5,6,7,
+                    8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,8,9,10,11,12,13,14,15,
+                    16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,16,17,18,19,20,21,22,23,
+                    24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,24,25,26,27,28,29,30,31,
+                    32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,32,33,34,35,36,37,38,39,
+                    40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,40,41,42,43,44,45,46,47,
+                    48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,48,49,50,51,52,53,54,55,
+                    56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63,56,57,58,59,60,61,62,63
+                ]
+            },
+            "tilesetId": "ac5d854b-01ca-4959-ae75-10d28a180380",
             "userdefined_depth": false,
             "visible": true,
-            "vspeed": 0,
-            "vtiled": false,
             "x": 0,
             "y": 0
         }
