@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "aa8e87a8-ccf8-4256-8105-e964cd1cd32f",
+            "Value": {
+                "id": "3f6f3500-6ed0-4b23-b833-dbaa1aba7932",
+                "resourcePath": "objects\\obj_checkpoint\\obj_checkpoint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ac5d854b-01ca-4959-ae75-10d28a180380",
             "Value": {
                 "id": "dbebc2bf-a22e-4d38-b39e-b2c4c92e99b3",

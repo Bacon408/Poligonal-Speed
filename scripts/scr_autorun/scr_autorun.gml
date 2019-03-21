@@ -1,4 +1,4 @@
-if (mytime <= 0)
+if mytime <= 0
 {
-	hspeed = 20
+	motion_add(x + 1, 20);
 }
