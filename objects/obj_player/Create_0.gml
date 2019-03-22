@@ -1,6 +1,6 @@
-grav = 7;
+grav = 5;
 hspd = 40;
-vspd = 0;
+vspd = 7;
 jumping = false;
 falling = false;
 ducking = false;
