@@ -2,7 +2,7 @@
     "id": "0fa9e43f-bf0b-4ab8-bb15-5c62f0b0a5b5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object12",
+    "name": "obj_player_dash",
     "eventList": [
         
     ],
