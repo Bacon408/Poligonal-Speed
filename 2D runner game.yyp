@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "dac0300c-1750-4738-a6b6-e90676c23f02",
+            "Value": {
+                "id": "77758e81-ac5e-48e0-9a33-8fa9841c3193",
+                "resourcePath": "objects\\obj_player_slide\\obj_player_slide.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e06e3ffd-b539-4423-b64b-ef8a35ef7010",
             "Value": {
                 "id": "04698724-0dcd-4bfa-a3a2-e03c7068ed1f",
